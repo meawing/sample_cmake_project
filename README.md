@@ -1,1 +1,1 @@
-Example with Github Actions
+Example of CI Github Actions
